@@ -1,4 +1,4 @@
-# Android_ShoppingList
+# Android_ShoppingListApp
 Completed for May 2023 as part of CO2103 coursework, partnered with Zaina.R
 
 This Android application allows users to create and manage shopping lists with input/error handling. The app supports image selection from the device gallery for each list and provides detailed control over product information such as quantity and unit types.
