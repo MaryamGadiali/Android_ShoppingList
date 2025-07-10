@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PART2 Shopping List</string>
+    <string name="add_product">Add Product</string>
+    <string name="hint_product">Product Name...</string>
+    <string name="button_save">Save</string>
+
+    <string name="hint_add_name">Add Name</string>
+    <string name="hint_add_quantity">Add an amount</string>
+    <string name="hint_no_image_selected">No Image Selected</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="hint_create_shopping_list">Create a Shopping List</string>
+    <string name="button_create">Create</string>
+    <string name="name_quantity_empty_not_saved">Product Name and Quantity is required</string>
+    <string name="name_empty_not_saved">Name is required</string>
+    <string name="quantity_empty_not_saved">Product Quantity is required</string>
+    <string name="repeated_name">Shopping List name already exists, please choose another</string>
+    <string name="repeated_name_product">Product already exists</string>
+    <string name="button_createProduct">Add</string>
+    <string name="product_updated">Details have been updated</string>
+
+    <string-array name="labels_unit">
+        <item>Unit</item>
+        <item>Kg</item>
+        <item>Liter</item>
+    </string-array>
+</resources>
